@@ -2,4 +2,4 @@ Uli has been working with data engineering & distributed systems since the early
 
 He studied computer science and electrical engineering in Germany, after growing up in Johannes Gutenberg's neighborhood — you could say it was the Silicon Valley of the 15th century. Now, Uli usually doesn't have a beard but he shares the same passion for everything at the intersection of technology, content, design & repeatability.
 
-On the technical side Uli works with, automation, API design, Linux engineering, Python, NoSQL databases, containerized workloads & microservices, messaging systems, and DevOps. 
+On the technical side Uli works with automation, API design, Linux engineering, Python, NoSQL databases, containerized workloads & microservices, messaging systems, and DevOps. 
