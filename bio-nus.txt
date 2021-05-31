@@ -1,0 +1,5 @@
+Uli has been working with data engineering & distributed systems since the early days of the internet. Previously with companies including Microsoft, Red Hat, Yahoo! and IBM, he now works on building the healthcare platform of the future as the Chief Architect at Care, bringing in project experience with service providers and customers in financial services, media, healthcare, education, and the public sector.
+
+With Singapore as a home base since ten years, Uli originally grew up in Johannes Gutenberg's neighbourhood of Germany – you could say it was the Silicon Valley of the 15th century. He usually doesn't have a beard, but he shares the same passion for everything at the intersection of technology, content, design & repeatability. Uli studied computer science and electrical engineering, and enjoys spending free time on the piano, over a book, or a walk at the sea to catch the sunrise.
+
+On the technical side Uli works with automation, API design, Linux engineering, Python, NoSQL databases, containerized workloads & microservices, messaging systems, and DevOps.
