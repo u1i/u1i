@@ -1,1 +1,0 @@
-Uli has been working with data engineering & distributed systems since the early days of the internet. Previously with companies like Microsoft, Red Hat, Yahoo! and IBM, he has been covering open banking, healthcare, service providers, education, and media. Since 2020 he teaches DevOps at the National University of Singapore's FinTech programme.
