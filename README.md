@@ -5,5 +5,5 @@
 * I also teach at [NUS](https://www.nus.edu.sg/)
 * Slides from my talks, articles, featured projects and my AI research are on [API Geek](https://apigeek.net/)
 * Please check out [my books](https://www.electricminds.net/book)
-* Get in touch with me via [LinkedIn](https://www.linkedin.com/in/uhitzel/).
+* Get in touch with me via [LinkedIn](https://www.linkedin.com/in/uhitzel/)
 * [Speaker bio](https://raw.githubusercontent.com/u1i/u1i/master/new-bio.txt) and [photos](https://github.com/u1i/u1i)
