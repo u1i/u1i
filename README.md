@@ -1,8 +1,9 @@
 # Hello, I'm Uli
 
-* I'm a Digital Technologist at [Dyson](https://www.dyson.com), based out of Singapore
+* I'm a Digital Technologist, based out of Singapore
 * Founder of [Electric Minds](https://www.electricminds.net/)
 * I also teach at [NUS](https://www.nus.edu.sg/)
+* Work experience includes Dyson, Microsoft, Red Hat, Yahoo!, and IBM
 * Slides from my talks, articles, featured projects and my AI research are on [API Geek](https://apigeek.net/)
 * Please check out [my books](https://www.electricminds.net/book)
 * Get in touch with me via [LinkedIn](https://www.linkedin.com/in/uhitzel/)
