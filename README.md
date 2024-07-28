@@ -1,6 +1,6 @@
 # Hello, I'm Uli
 
-* I'm a Digital Technologist, based out of Singapore
+* I'm a Principal AI Strategist at [naida](https://www.naida.ai/), based out of Singapore
 * Founder of [Electric Minds](https://www.electricminds.net/)
 * I also teach at [NUS](https://www.nus.edu.sg/)
 * Previously been working with companies including Dyson, Microsoft, Red Hat, Yahoo!, and IBM
