@@ -2,7 +2,7 @@
 
 * I'm a Principal AI Strategist at [naida](https://www.naida.ai/), based out of Singapore
 * Founder of [Electric Minds](https://www.electricminds.net/)
-* I also teach at [NUS](https://www.nus.edu.sg/)
+* I also teach at [NUS](https://www.nus.edu.sg/) and mentor startups through [Start2](https://start2.group/)
 * Previously been working with companies including Dyson, Microsoft, Red Hat, Yahoo!, and IBM
 * Slides from my talks, articles, featured projects and my AI research are on [API Geek](https://apigeek.net/)
 * Please check out [my books](https://www.electricminds.net/book)
