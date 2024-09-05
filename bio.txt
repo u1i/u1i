@@ -1,3 +1,7 @@
-Uli has been working with data engineering, automation, and distributed systems since the early days of the internet. Previously with companies including Microsoft, Red Hat, Yahoo! and IBM, he is now focusing on technology innovation at Dyson. In recent years he has worked on building a digital healthcare platform in times of a pandemic, as well as leading a platform engineering team for an e-commerce unicorn expanding into Asia-Pacific.
+Uli Hitzel is a digital technologist passionate about AI, automation, and emerging technologies. He helps companies and startups drive innovation and business transformation through strategic AI adoption and collaborative ecosystems.
 
-As the founder of Electric Minds, Uli is looking to combine machine intelligence with human ingenuity to inspire new ways of thinking and help solve some of the most challenging problems we face as a global society today. Since 2020, Uli is teaching at the National University of Singapore.
+As the founder of Electric Minds, a non-profit AI initiative, Uli leads efforts to solve problems that can only be tackled with the help of AI and diverse collaborative ecosystems. The initiative emphasizes the need for ecosystems that bring together diverse minds and resources to make a real impact.
+
+Throughout his career, Uli has worked with companies like Yahoo, Microsoft, IBM, Red Hat, Barclays Capital, and BT across various industries. Since 2020, he has been teaching at the National University of Singapore.
+
+Uli frequently speaks at events on emerging technologies and business transformation and writes books on generative AI. He aims to inspire, motivate, and enable next-generation technologists. Interested in being part of this collaborative effort? Check out Electric Minds' event calendar and join in person if you can. Let's turn big ideas into impactful actions.
