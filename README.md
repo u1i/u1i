@@ -7,4 +7,4 @@
 * Slides from my talks, articles, featured projects and my AI research are on [API Geek](https://apigeek.net/)
 * Please check out [my books](https://www.electricminds.net/book)
 * Get in touch with me via [LinkedIn](https://www.linkedin.com/in/uhitzel/)
-* Speaker bio [long](https://raw.githubusercontent.com/u1i/u1i/master/bio.txt) / [short](https://raw.githubusercontent.com/u1i/u1i/master/bio-short.txt) and [photos](https://github.com/u1i/u1i/tree/master/photos)
+* Speaker bio [long](https://raw.githubusercontent.com/u1i/u1i/refs/heads/master/bio.md) / [short](https://raw.githubusercontent.com/u1i/u1i/refs/heads/master/bio-short.md) and [photos](https://github.com/u1i/u1i/tree/master/photos)
