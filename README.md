@@ -1,6 +1,6 @@
 # Hello, I'm Uli
 
-* I'm a Principal AI Strategist at [naida](https://www.naida.ai/), based out of Singapore
+* I lead [naida](https://www.naida.ai/), and I'm the Chief AI Strategist at [ELGO](https://elgo.app/), based out of Singapore
 * Founder of [Electric Minds](https://www.electricminds.net/)
 * I also teach at [NUS](https://www.nus.edu.sg/) and mentor startups through [Start2](https://start2.group/)
 * Previously been working with companies including Dyson, Heineken, Microsoft, Red Hat, Yahoo!, HP, and IBM
